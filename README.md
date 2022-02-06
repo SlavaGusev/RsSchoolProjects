@@ -8,3 +8,5 @@
 
 
 # Задания на JavaScript
+
+[Audio player](https://rolling-scopes-school.github.io/slavagusev-JSFEPRESCHOOL/audio-player/)
