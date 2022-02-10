@@ -10,3 +10,5 @@
 ## Задания на JavaScript
 
 [Audio player](https://rolling-scopes-school.github.io/slavagusev-JSFEPRESCHOOL/audio-player/)
+
+[Movie app](https://rolling-scopes-school.github.io/slavagusev-JSFEPRESCHOOL/movie-app/)
