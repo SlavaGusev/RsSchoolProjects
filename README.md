@@ -6,6 +6,8 @@
 
 [Портфолио]( https://rolling-scopes-school.github.io/slavagusev-JSFEPRESCHOOL/portfolio/)
 
+[Shelter]( https://rolling-scopes-school.github.io/slavagusev-JSFE2022Q1/shelter/)
+
 
 ## Задания на JavaScript
 
